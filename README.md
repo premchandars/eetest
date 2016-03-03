@@ -2,6 +2,13 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+##TO Install this addon
+
+Run this command from ember app dir
+
+` ember install git+ssh://git@github.com:premchandars/eetest.git --save `
+
+
 ## Installation
 
 * `git clone` this repository
