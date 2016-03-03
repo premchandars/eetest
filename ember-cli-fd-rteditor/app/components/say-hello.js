@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-fd-rteditor/components/say-hello';
