@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-fd-rteditor/components/say-hello';
+export { default } from 'eetest/components/say-hello';
