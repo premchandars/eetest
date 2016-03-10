@@ -1,0 +1,1 @@
+export { default } from 'eetest/components/fd-editor';
